@@ -1,1 +1,1 @@
-# DSA
+I am relearning Data Structures and Algorithms, and I would like to use this repository to track my progress. I will be coding in both java and python so as to reinforce concepts and increase my versatility.
