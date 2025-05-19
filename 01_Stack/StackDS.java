@@ -37,7 +37,7 @@
         System.out.println(stack);
 
         //Returns true if stack is empty, false otherwise
-        //System.out.println(stack.empty());
+        System.out.println(stack.isEmpty());
 
         //returns position of an item in a stack (starts from 1)
         for (String name : stack){
