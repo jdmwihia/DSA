@@ -7,12 +7,13 @@ class Stack:
     def search(self, name):
         i = 1
         x = -1
-        while True:
+        while abs(x) <= len(self.list):
             if name != self.list[x]:
                 i+=1
                 x-=1
             else:
                 return i
+        return -1
             
     #implementing peek method
     def peek(self):
